@@ -33,5 +33,5 @@ int main(void) {
 
 
 
-**
+***
 ![Alt "Hello"](http://guides.github.com/activities/hello-world/branching.png)
