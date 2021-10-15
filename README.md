@@ -1,4 +1,4 @@
-Mdfd: Text can be **bold**, _italic_, ~~strikethrough~~
+Modified: Text can be **bold**, _italic_, ~~strikethrough~~
 
 HEAD
 
