@@ -1,6 +1,10 @@
 Text can be **bold**, _italic_, ~~strikethrough~~
 
+<<<<<<< HEAD
 .
+=======
+
+>>>>>>> parent of 7855a51... Revert "Second commit"
 [Link to git](http://github.com)
 
 # Header 1
