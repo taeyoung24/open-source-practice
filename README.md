@@ -1,13 +1,10 @@
 Text can be **bold**, _italic_, ~~strikethrough~~
 
 <<<<<<< HEAD
-<<<<<<< HEAD
 .
 =======
 
 >>>>>>> parent of 7855a51... Revert "Second commit"
-=======
->>>>>>> parent of 7f00a08... First commit
 [Link to git](http://github.com)
 
 # Header 1
